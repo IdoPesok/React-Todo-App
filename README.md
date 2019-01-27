@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Todo App
+Organize your life with this simple and useful todo application.
+
+# Getting Started
+Clone the repo and then run `npm install` to install the needed dependencies.
 
 ## Available Scripts
 
